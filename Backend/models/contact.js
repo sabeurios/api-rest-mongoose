@@ -16,4 +16,4 @@ const SchemaContact = new Schema({
   }
 });
 
-module.exports = Contact = mongoose.model("contact", SchemaContact);
+module.exports = Contact = mongoose.model("listcontact", SchemaContact);
